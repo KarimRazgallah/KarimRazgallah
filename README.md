@@ -9,4 +9,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimrazgallah&show_icons=true&locale=en" alt="karimrazgallah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimrazgallah&" alt="karimrazgallah" /></p>
